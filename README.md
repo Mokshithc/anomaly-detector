@@ -15,7 +15,7 @@ A real-time video anomaly detection system using YOLOv8 and Deep SORT for object
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/video-anomaly-detection.git
+git clone https://github.com/pranavkoushik/video-anomaly-detection.git
 cd video-anomaly-detection
 ```
 
